@@ -1,0 +1,6 @@
+{
+  "name": "ALLORA",
+  "description": "Modern, premium digital discovery platform bringing essential tools, movies, and social experiences together in one futuristic interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
